@@ -64,7 +64,10 @@
 <a href="https://www.linkedin.com/in/cleisson-de-matos-programador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
  
-
+<div align="center">
+  <p><b>Visitors Count</p> 
+  <img src="https://profile-counter.glitch.me/Cleisson50/count.svg?"  />
+</div>
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
